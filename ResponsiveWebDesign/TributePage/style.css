@@ -63,10 +63,15 @@ h3 {
 }
 
 @media (min-width: 1400px) {
-  h2 {
+  h3 {
     font-size: 3rem;
   }
 }
+
+p {
+    font-size: 2rem
+}
+
 blockquote {
   font-size: 2rem;
   font-style: italic;
