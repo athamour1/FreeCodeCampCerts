@@ -49,6 +49,12 @@ h2 {
   padding-bottom: 5rem;
 }
 
+@media (min-width: 1400px) {
+  h2 {
+    font-size: 4rem;
+  }
+}
+
 h3 {
   font-size: 2rem;
   font-family: "Libre Baskerville", serif;
@@ -58,10 +64,9 @@ h3 {
 
 @media (min-width: 1400px) {
   h2 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
-
 blockquote {
   font-size: 2rem;
   font-style: italic;
