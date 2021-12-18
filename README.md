@@ -1,1 +1,11 @@
-# FreeCodeCampCerts
+# Free Code Camp Certs
+- [Responsive Web Design](https://github.com/athamour1/FreeCodeCampCerts/tree/main/ResponsiveWebDesign)
+- [Java Script Algorithms](https://github.com/athamour1/FreeCodeCampCerts/tree/main/JavaScriptAlgorithms)
+- [Front End Development Libraries](https://github.com/athamour1/FreeCodeCampCerts/tree/main/FrontEndDevelopmentLibraries)
+- [Data Visualization](https://github.com/athamour1/FreeCodeCampCerts/tree/main/DataVisualization)
+- [Back End Development APIs](https://github.com/athamour1/FreeCodeCampCerts/tree/main/BackEndDevelopmentAPIs)
+- [Quality Assurance](https://github.com/athamour1/FreeCodeCampCerts/tree/main/QualityAssurance)
+- [Scientific Computing with Python](https://github.com/athamour1/FreeCodeCampCerts/tree/main/ScientificComputingWithPython)
+- [Data Analysis with Python](https://github.com/athamour1/FreeCodeCampCerts/tree/main/DataAnalysisWithPython)
+- [Information Security](https://github.com/athamour1/FreeCodeCampCerts/tree/main/InformationSecurity)
+- [Machine Learning with Python](https://github.com/athamour1/FreeCodeCampCerts/tree/main/MachineLearningWithPython)
